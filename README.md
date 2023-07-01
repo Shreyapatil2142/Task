@@ -7,4 +7,4 @@ specifically tailored for companies. This will enable them to access the recruit
 solution and utilize its features effectively.
  Implement a search functionality that allows users to find candidates
 based on location and job roles. Additionally, design a section where the fetched
-candidates can be listed for later ranking and evaluation.
+candidates can be listed for later ranking and evaluation..
